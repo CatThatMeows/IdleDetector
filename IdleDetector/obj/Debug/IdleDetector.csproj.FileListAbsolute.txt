@@ -1,0 +1,15 @@
+C:\Users\Jani\source\repos\IdleDetector\IdleDetector\bin\Debug\IdleDetector.exe.config
+C:\Users\Jani\source\repos\IdleDetector\IdleDetector\bin\Debug\IdleDetector.exe
+C:\Users\Jani\source\repos\IdleDetector\IdleDetector\bin\Debug\IdleDetector.pdb
+C:\Users\Jani\source\repos\IdleDetector\IdleDetector\obj\Debug\IdleDetector.csproj.AssemblyReference.cache
+C:\Users\Jani\source\repos\IdleDetector\IdleDetector\obj\Debug\IdleDetector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jani\source\repos\IdleDetector\IdleDetector\obj\Debug\IdleDetector.csproj.CoreCompileInputs.cache
+C:\Users\Jani\source\repos\IdleDetector\IdleDetector\obj\Debug\IdleDetector.exe
+C:\Users\Jani\source\repos\IdleDetector\IdleDetector\obj\Debug\IdleDetector.pdb
+C:\Users\Meows\Downloads\IdleDetector\IdleDetector\bin\Debug\IdleDetector.exe.config
+C:\Users\Meows\Downloads\IdleDetector\IdleDetector\bin\Debug\IdleDetector.exe
+C:\Users\Meows\Downloads\IdleDetector\IdleDetector\bin\Debug\IdleDetector.pdb
+C:\Users\Meows\Downloads\IdleDetector\IdleDetector\obj\Debug\IdleDetector.csproj.AssemblyReference.cache
+C:\Users\Meows\Downloads\IdleDetector\IdleDetector\obj\Debug\IdleDetector.csproj.CoreCompileInputs.cache
+C:\Users\Meows\Downloads\IdleDetector\IdleDetector\obj\Debug\IdleDetector.exe
+C:\Users\Meows\Downloads\IdleDetector\IdleDetector\obj\Debug\IdleDetector.pdb
